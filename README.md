@@ -2,11 +2,11 @@
 
 
 
-HEAD
-
 StudentHub es una plataforma universitaria para administrar información de estudiantes.
- 6512cf6 (docs: edit description on main)
 StudentHub es una plataforma A para gestionar servicios.
+
+StudentHub es optimo para soluciones digitales.
+
 
 \## Funcionalidades
 
